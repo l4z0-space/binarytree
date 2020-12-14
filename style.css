@@ -1,0 +1,57 @@
+
+
+body { background: #fff; }
+
+#header {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+/* optional Container STYLES */
+.chart { 
+    height: 400px; 
+    width: 900px; 
+    margin: auto; 
+    border: 3px solid rgb(3, 3, 3); 
+    border-radius: 3px; 
+    /* padding-top: 20px; */
+    padding-bottom: 10px;
+}
+
+.node {
+    color: #000000; 
+    border: 2px solid #C8C8C8; 
+    border-radius: 3px; 
+    height: 35px;
+}
+
+.node p { 
+    font-size: 15px; 
+    line-height: 20px; 
+    height: 20px; 
+    font-weight: bold; 
+    padding: 4px; 
+    margin: 0; 
+
+}
+
+#chartForm {
+    text-align: center;
+    padding:20px;
+}
+
+.input-group {
+    height: 70px; 
+    width: 900px; 
+    padding-bottom: 40px;
+    margin: auto; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#howTo{
+    width: 900px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
